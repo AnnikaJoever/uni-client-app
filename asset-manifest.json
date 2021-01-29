@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/uni-client-app/static/css/main.a7a7e7c3.chunk.css",
-    "main.js": "/uni-client-app/static/js/main.46e04b5b.chunk.js",
-    "main.js.map": "/uni-client-app/static/js/main.46e04b5b.chunk.js.map",
+    "main.js": "/uni-client-app/static/js/main.57e87713.chunk.js",
+    "main.js.map": "/uni-client-app/static/js/main.57e87713.chunk.js.map",
     "runtime-main.js": "/uni-client-app/static/js/runtime-main.8d200d78.js",
     "runtime-main.js.map": "/uni-client-app/static/js/runtime-main.8d200d78.js.map",
     "static/js/2.7390a2f8.chunk.js": "/uni-client-app/static/js/2.7390a2f8.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8d200d78.js",
     "static/js/2.7390a2f8.chunk.js",
     "static/css/main.a7a7e7c3.chunk.css",
-    "static/js/main.46e04b5b.chunk.js"
+    "static/js/main.57e87713.chunk.js"
   ]
 }
