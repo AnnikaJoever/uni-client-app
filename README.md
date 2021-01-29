@@ -5,6 +5,7 @@ This is a university project that was developed for a business client. The proje
 You can search or sort users and product info, but you can't edit or delete users. This is a "dummy" application.
 
 You can test the app at https://annikajoever.github.io/uni-client-app/.
+Click [here](https://www.figma.com/proto/QkrEe4itG1ngP86bgl6CTa/Client-project?node-id=1%3A84&scaling=min-zoom) to see the Figma wireframes.
 
 The app is built with React.
 
