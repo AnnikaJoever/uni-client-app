@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*# sourceMappingURL=tailwind.css.map */
+
+@layer base {
+    h4 {
+        @apply text-2xl font-medium;
+    }
+}
+
+@layer components {
+    .nav-link {
+        @apply text-white font-medium tracking-wide min-w-full px-5 py-2;
+    }
+    .nav-link:hover {
+        @apply bg-primary-dark cursor-pointer;
+    }
+    .nav-sublink {
+        @apply  text-white font-medium tracking-wide min-w-full pr-5 pl-10 py-2;
+    }
+    .nav-sublink:hover {
+        @apply bg-primary-dark cursor-pointer;
+    }
+    .section {
+        @apply bg-white rounded-lg shadow w-full overflow-auto mt-6 p-4;
+    }
+    .list {
+        @apply bg-white rounded-lg shadow w-full overflow-auto mt-6;
+    }
+    .search:hover {
+        @apply border-primary;
+    }
+    .search:focus {
+        @apply outline-none border-secondary;
+    }
+    .table-heading {
+        @apply sticky top-0 bg-gray-100 px-4 py-3;
+    }
+    .table-button {
+        @apply text-xs font-bold tracking-wider text-gray-700 uppercase;
+    }
+    .table-data {
+        @apply text-center px-4 py-3;
+    }
+    .sort-btn:hover {
+        @apply text-primary-dark;
+    }
+    .sort-btn:focus {
+        @apply outline-none text-primary;
+    }
+    .active {
+        @apply text-primary border-b-2 border-primary;
+    }
+    .modal_container {
+        @apply justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none text-gray-800;
+    }
+    .modal_container:focus {
+        @apply outline-none;
+    }
+    .modal {
+        @apply relative w-4/5 max-w-4xl my-6 mx-auto;
+    }
+    .modal_header {
+        @apply flex items-start justify-between;
+    }
+    .grid_form_container {
+        @apply grid grid-cols-6 gap-6 py-4;
+    }
+    .input_label {
+        @apply block text-sm font-medium text-gray-800;
+    }
+    .input {
+        @apply mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm
+    }
+    .btn {
+        @apply text-white font-bold uppercase px-6 py-3 rounded text-sm shadow;
+    }
+    .cancel_btn {
+        @apply bg-white text-gray-800 font-bold uppercase px-6 py-3 rounded text-sm border border-gray-300 shadow;
+    }
+    .cancel_btn:hover {
+        @apply bg-gray-100 
+    }
+}
+
+@layer utilities {
+    /* Width */
+    ::-webkit-scrollbar {
+        width: 16px;
+        height: 16px;
+    }
+    
+    /* Track */
+    ::-webkit-scrollbar-track {
+        border-radius: 100vh;
+        background: #edf2f7;
+    }
+    
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+        background: #cbd5e0;
+        border-radius: 100vh;
+        border: 3px solid #edf2f7;
+    }
+    
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+        background: #a0aec0;
+    }
+}

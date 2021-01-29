@@ -1,0 +1,12 @@
+[{"fullName":"Matti Meikäläinen","userName":"matti.meikalainen","comments":"Here you can write comments about the user","rights":"admin","status":"active"},
+{"fullName":"Maija Mehiläinen","userName":"maija.mehilainen","comments":"Here you can write comments about the user","rights":"editing rights","status":"active"},
+{"fullName":"Taina Kainulainen","userName":"taina.kainulainen","comments":"Here you can write comments about the user","rights":"read only","status":"active"},
+{"fullName":"Terhi Ylikoski","userName":"terhi.ylikoski","comments":"Here you can write comments about the user","rights":"editing rights","status":"passive"},
+{"fullName":"Niina Jokinen","userName":"niina.jokinen","comments":"Here you can write comments about the user","rights":"editing rights","status":"active"},
+{"fullName":"Irina Heikkilä","userName":"irina.heikkila","comments":"Here you can write comments about the user","rights":"editing rights","status":"active"},
+{"fullName":"Joni Pennanen","userName":"joni.pennanen","comments":"Here you can write comments about the user","rights":"read only","status":"active"},
+{"fullName":"Janne Hämäläinen","userName":"janne.hamalainen","comments":"Here you can write comments about the user","rights":"read only","status":"passive"},
+{"fullName":"Pekka Pouta","userName":"pekka.pouta","comments":"Here you can write comments about the user","rights":"admin","status":"active"},
+{"fullName":"Anni Vakkila","userName":"anni.vakkila","comments":"Here you can write comments about the user","rights":"editing rights","status":"active"},
+{"fullName":"Viivi Saastamoinen","userName":"viivi.saastamoinen","comments":"Here you can write comments about the user","rights":"read only","status":"active"},
+{"fullName":"Niilo Nokkela","userName":"niilo.nokkela","comments":"Here you can write comments about the user","rights":"admin","status":"active"}]
